@@ -6,6 +6,8 @@
 //  Copyright © 2020 xiu. All rights reserved.
 //
 
+// https://github.com/Yummypets/YPImagePicker
+
 import UIKit
 
 let image = UIImage(named: "abc.jpeg")!

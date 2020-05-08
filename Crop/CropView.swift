@@ -5,6 +5,7 @@
 //  Created by xiu on 2020/5/8.
 //  Copyright © 2020 xiu. All rights reserved.
 //
+// https://github.com/Yummypets/YPImagePicker
 
 import UIKit
 let ww: CGFloat = UIScreen.main.bounds.size.width
